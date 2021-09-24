@@ -1,0 +1,3 @@
+# Registration-Login-Form
+This a Django project that allows users to login to a website and allows them to register for an account as well.
+If the account already exists it can't allow to create a new one with same credentials...
